@@ -1,2 +1,2 @@
-# UI-UX
+# Calculator
 Calculator
